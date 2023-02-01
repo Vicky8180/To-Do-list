@@ -1,3 +1,6 @@
-.div3{
+.div4{
     margin-top: 300px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
 }
